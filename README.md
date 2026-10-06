@@ -1,4 +1,4 @@
-<## Hi, I'm Akshitha Bedre Shivakumar
+
 
 **AI & Backend Engineer | Data Engineering | MS in Computer Science**
 
